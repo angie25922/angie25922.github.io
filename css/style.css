@@ -1,0 +1,51 @@
+
+	body {
+        margin: 0;
+      }
+      #container {
+        background: blue ;
+        width: 90%;
+        margin: 0 auto;
+      }
+      #header {
+        background: blue ;
+        border: solid black;
+        border-width: 1px 0px 1px 0px;
+      }
+      #ads {
+        background: white;
+        border: solid black;
+        border-width: 1px 0px 1px 0px;
+        float: left;
+        width: 10%;
+      }
+      ul{padding:0;margin:0;list-style: none}
+      dl{border:1px solid black;padding:0;margin:0;}
+      #content {
+        background: white;
+        border: solid black;
+        border-width: 1px 0px 1px 0px;
+        float: left;
+        width: 80%;
+      }
+      #menu {
+        background: white;
+        border: solid black;
+        border-width: 1px 0px 1px 0px;
+        float: left;
+        width: 10%;
+      }
+      #footer {
+        background: white;
+        border: solid black;
+        border-width: 1px 0px 1px 0px;
+        clear:both;
+      }
+	
+	
+	
+	
+	
+	
+	
+	
